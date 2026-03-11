@@ -1,4 +1,3 @@
-# smart-contact-form-builder
 # Smart Contact Form Builder
 
 A WordPress contact form plugin built for real-world lead generation. Features a drag-and-drop form builder, live admin preview, AJAX submission, advanced spam protection, and a full submissions dashboard — all without any third-party dependencies.
